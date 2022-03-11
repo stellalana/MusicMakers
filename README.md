@@ -1,2 +1,2 @@
 # MusicMakers
-Website for KOS Consulting: Music Makers
+Website for KOS Consulting Client: Music Makers
